@@ -1,0 +1,9 @@
+input {
+  width: 20px;
+}
+
+.input-row {
+  display: flex;
+  flex-direction: row;
+  margin-bottom: 3px;
+}
